@@ -12,9 +12,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎨 Full Stack Web Developer & UI/UX Designer
+- 🎨 Full Stack Engineer, Web Developer, and UI/UX Designer
 - 🚀 Building with TypeScript, React, Next.js, TailwindCSS
-- 🧩 Also tinkering with C, Go, Python, PHP, Lua
+- 🧩 Also tinkering with Go, Python, PHP, Lua
 - 🎸 Guitar player, gamer, cat person
 
 ---
