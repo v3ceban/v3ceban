@@ -68,8 +68,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=v3ceban&show_icons=true&theme=catppuccin&hide_border=true&hide_rank=true&custom_title=Vlad%27s%20GitHub%20Stats" height="170" alt="Vlad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ceban&layout=compact&theme=catppuccin&hide_border=true" height="170" alt="Top Languages" />
-
+  <img src="https://streak-stats.demolab.com?user=v3ceban&theme=catppuccin-mocha&hide_border=true" />
 </div>
