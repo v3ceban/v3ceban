@@ -38,12 +38,10 @@
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="36" alt="Prisma" title="Prisma"/>
 
   <!-- Other languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="36" alt="Go" title="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" alt="Lua" title="Lua"/>
   
   <!-- Tools -->
@@ -62,7 +60,7 @@
     <strong>Core:</strong> HTML5, CSS3, JavaScript<br/>
     <strong>Main:</strong> TypeScript, React, Next.js, Node.js, TailwindCSS<br/>
     <strong>DB/ORM:</strong> PostgreSQL, MySQL, Prisma, Drizzle<br/>
-    <strong>Side:</strong> Go, Python, PHP, Lua<br/>
+    <strong>Side:</strong> Go, Python, Lua<br/>
     <strong>Design:</strong> Figma, Photoshop
   </sub>
 </div>
