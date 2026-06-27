@@ -1,7 +1,7 @@
 <!-- Profile README for v3ceban -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=b4befe&text=Hi,%20I'm%20Vlad%20Ceban&reversal=false&section=header&descAlignY=0&textBg=false&fontAlignY=57&fontColor=1e1e2e&fontSize=48"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=b4befe&text=Hi,%20I'm%20Vlad&reversal=false&section=header&descAlignY=0&textBg=false&fontAlignY=57&fontColor=1e1e2e&fontSize=48"/>
 </div>
 
 <p align="center">
