@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>Full Stack Engineer • UI/UX Designer • Lunux Enthusiast</b>
+  <b>Full Stack Engineer • UI/UX Designer • Linux Enthusiast</b>
 </p>
 
 ---
